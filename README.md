@@ -2,10 +2,10 @@
 
 MemSnap is a mobile app that helps you manage and share photos from your trips and events.
 
-<img src="https://github.com/user-attachments/assets/045c22bd-3d24-42e0-82c4-547eb38fad8f" alt="alt text" width="500">
-<img src="https://github.com/user-attachments/assets/845def32-00f0-4668-9ac0-546b094c7f16" alt="alt text" width="500">
-<img src="https://github.com/user-attachments/assets/2b99b255-9994-40f1-b3c5-532a8c152290" alt="alt text" width="500">
-<img src="https://github.com/user-attachments/assets/82b622ac-175e-4b69-b887-5ae7b7d97209" alt="alt text" width="500">
+<img src="https://github.com/user-attachments/assets/045c22bd-3d24-42e0-82c4-547eb38fad8f" alt="alt text" width="250">
+<img src="https://github.com/user-attachments/assets/845def32-00f0-4668-9ac0-546b094c7f16" alt="alt text" width="250">
+<img src="https://github.com/user-attachments/assets/2b99b255-9994-40f1-b3c5-532a8c152290" alt="alt text" width="250">
+<img src="https://github.com/user-attachments/assets/82b622ac-175e-4b69-b887-5ae7b7d97209" alt="alt text" width="250">
 
 
 ### Target Users
