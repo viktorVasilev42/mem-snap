@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# Mem Snap
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MemSnap is a mobile app that helps you manage and share photos from your trips and events.
 
-## Get started
+<img src="https://github.com/user-attachments/assets/045c22bd-3d24-42e0-82c4-547eb38fad8f" alt="alt text" width="500">
+<img src="https://github.com/user-attachments/assets/845def32-00f0-4668-9ac0-546b094c7f16" alt="alt text" width="500">
+<img src="https://github.com/user-attachments/assets/2b99b255-9994-40f1-b3c5-532a8c152290" alt="alt text" width="500">
+<img src="https://github.com/user-attachments/assets/82b622ac-175e-4b69-b887-5ae7b7d97209" alt="alt text" width="500">
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Target Users
+In order to design the interaction for our social-media application we need to gather
+information about the person that is going to use our application and different use cases that will
+apply to him. Our target users are individuals who seek meaningful connections with other
+people, inspiration from people with similar interests in activities and places, as well as
+storytelling opportunities within their environment. This includes but is not limited to:
+- Creative professionals looking for spaces that spark innovation and collaboration
+with other people
+- Community members searching for inclusive environments and the ability to
+share stories and experiences
+- Online content creators seeking platforms that amplify their skills and ability to
+find their audience
+- Individuals from excluded groups who desire to find a platform where their stories
+can be valued
+- People interested in architecture and urban spaces looking for a way to promote
+locations that encourage social in
+By understanding the needs and aspirations of these diverse user groups, we aim to
+create an interactive design that seamlessly integrates into their lives, enabling them to connect,
+inspire, collaborate and share with other people effectively.
+### Domain-Context of Interest:
+Our focus lies in designing a platform for fostering connection, inspiration, and
+storytelling. These digital environments provide users with opportunities to engage, interact, and
+share their experiences, ideas, and narratives in meaningful ways. By leveraging different
+technologies, we aim to create immersive and inclusive online communities where users can
+connect with others, find inspiration, and participate in storytelling activities based on the
+location and time of the events.
+### Selection criteria for interviews
+- Diversity: Ensuring representation from different demographics, backgrounds, user
+types in order to familiarize with different storytelling techniques and tools that should
+be available and easily accessible in the final product.
+- Engagement: Prioritizing the needs of individuals who actively participate in the
+utilization of similar systems. This platform would thrive on containing active users of
+this kind.
+- Inclusivity: Including voices from marginalized or overlooked groups to ensure a
+holistic understanding of user experiences.
